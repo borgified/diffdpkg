@@ -1,6 +1,7 @@
 #!/usr/bin/env perl
 
-open(TRAVIS,"travis.txt");
+#open(TRAVIS,"travis.txt");
+open(TRAVIS,"travis2.txt");
 open(NODE01,"node01.txt");
 
 my %travis;
